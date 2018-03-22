@@ -1,3 +1,5 @@
+#Language Detection  
+
 **Dataset:** European Parliament Proceedings Parallal Corpus  
 **Model:** Logistic Regression  
 **Accuracy:** 0.775398502017  
