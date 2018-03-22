@@ -1,4 +1,4 @@
-#Language Detection  
+# Language Detection  
 
 **Dataset:** European Parliament Proceedings Parallal Corpus  
 **Model:** Logistic Regression  
